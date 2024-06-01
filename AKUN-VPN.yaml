@@ -39,7 +39,7 @@ proxies:
         Host: idakamaidua.vpnexecutive.net
     udp: true
   - name: AKUN4
-    server: 104.22.4.240
+    server: onelink.seabank.co.id
     port: 443
     type: trojan
     password: a2c7e837-59a0-4c2a-9eb5-13233c52afb5
