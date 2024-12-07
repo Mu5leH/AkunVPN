@@ -4,13 +4,13 @@
             "name": "AP-LUCKPOOL",
             "url": "stratum+tcp://ap.luckpool.net:3956",
             "timeout": 180,
-            "disabled": 0
+            "disabled": 1
         },
         {
-            "name": "NA-LUCKPOOL",
-            "url": "stratum+tcp://na.luckpool.net:3956",
+            "name": "SG-VIPOR",
+            "url": "stratum+tcp://sg.vipor.net:5040",
             "timeout": 180,
-            "disabled": 1
+            "disabled": 0
         },
         {
             "name": "EU-LUCKPOOL",
